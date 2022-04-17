@@ -16,17 +16,5 @@ int main()
   
   cout<<ptr<<" "<<*ptr<<endl;
 
-
-
-
-
-
-
-
-
-
-
-
-
     return 0;
 }
